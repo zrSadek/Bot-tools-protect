@@ -1,0 +1,9 @@
+{
+    "dependencies": {
+        "discord.js": "^12.5.3",
+        "fs": "^0.0.1-security",
+        "quick.db": "^7.1.3"
+    },
+    "main": "index.js",
+    "nodeVersion": "12.16.3"
+}
